@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+FlippingBrick/[Ll]ibrary/
+FlippingBrick/[Tt]emp/
+FlippingBrick/[Oo]bj/
+FlippingBrick/[Bb]uild/
+FlippingBrick/[Bb]uilds/
+FlippingBrick/[Ll]ogs/
+FlippingBrick/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -24,7 +24,7 @@
 /[Aa]ssets/Plugins/Editor/JetBrains*
 
 # Visual Studio cache directory
-.vs/
+FlippingBrick/.vs/
 
 # Gradle cache directory
 .gradle/
